@@ -22,13 +22,14 @@ Silent Features :
 Installation
 -To run the CorporateLanding Site locally as a single page application, follow these steps:
 
--Clone this repository: git clone https://github.com/punithnmnp1/CorporateLandingSite.git
+-Clone this repository: git clone https://github.com/mohank0310/Corporate_Landing_Site.git
 
 -Navigate to the project directory: cd Corporate-Landing-Site
 
 -execute this commands in the terminal
 
 **npm install express**
+
 **node app.js**
 -Open the index.html file in your web browser.
 
@@ -50,3 +51,8 @@ The webpage has a "get in touch" and "subscribe" option. The "get in touch" opti
 **app.js**:This is a JavaScript file in which the MongoDB connection will be done.
 
 If you find any issues with the website or have suggestions for improvement, please feel free to submit a pull request or open an issue in this repository. Your contributions are welcome!
+
+
+# LIVE LINK
+https://mohank0310.github.io/Corporate_Landing_Site/
+
